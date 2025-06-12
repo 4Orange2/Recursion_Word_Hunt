@@ -1,3 +1,1 @@
-```diff
-- # This solution to the 2023 CCC J5 Problem, CCC Word Hunt
-```
+<span style="color:red; font-size:20px;">This is red and larger text</span>
