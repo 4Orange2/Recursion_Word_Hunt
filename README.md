@@ -1,1 +1,3 @@
-# This solution to the 2023 CCC J5 Problem, CCC Word Hunt, uses recursion!
+<picture>
+ <img alt="" src="![image](https://github.com/user-attachments/assets/4eb107fb-789b-4bb0-979d-b2b1c8e580fa)">
+</picture>
