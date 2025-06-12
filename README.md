@@ -1,3 +1,3 @@
 <h1>
-$${\color{red}This solution to the 2023 CCC J5 Problem (CCC Word Hunt) uses Recursion}$$
+$${\color{red}This \space solution \space to \space the \space 2023 \space CCC \space J5 \space Problem \space (CCC Word Hunt) \space uses \space Recursion!}$$
 </h1>
